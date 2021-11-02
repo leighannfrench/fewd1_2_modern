@@ -47,6 +47,28 @@ p { 		font-size:90%; margin: 0 0 .5rem 0;  }
 .triptych:last-child {
     margin:0 0 0 0;
 }
+header{
+  background-image: url(../img/wood-texture.jpg);
+  background-repeat: none;
+  background-size: cover;
+  /* background-size: contain; */
+}
+
+.fa-phone{
+	font-size: 1rem;
+	color: #8a0270;
+  display: inline;
+}
+.fa-phone{
+	font-size: 1rem;
+	color: #8a0270;
+  display: inline;
+}
+.fa-at{
+	font-size: 1rem;
+	color: #8a0270;
+  display: inline;
+}
 
 /* media query 1: define styles that should only kick in if screen is above 561 pixels wide... */
 @media screen and (min-width:561px) {
